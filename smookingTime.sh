@@ -60,7 +60,7 @@ while :; do
 
     # limpa a tela e desenha o cigarro com o tempo atual
     clear
-    echo -ef "Fui fumar, já volto!"
+    echo "Fui fumar, já volto!"
     desenhar_cigarro "$total_segundos"
 
     sleep 1
